@@ -1,0 +1,1736 @@
+{
+  "nodes": [
+    {
+      "id": "readme",
+      "label": "README",
+      "file_type": "document",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_gemini_api_key",
+      "label": "GEMINI_API_KEY environment variable",
+      "file_type": "concept",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "readme_ai_studio",
+      "label": "AI Studio platform",
+      "file_type": "concept",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_brag_plan",
+      "label": "Brag Plan: Golden Hour Coffee Co.",
+      "file_type": "document",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_brag_plan_slow_mornings_strong_coffee",
+      "label": "Slow mornings strong coffee tagline",
+      "file_type": "concept",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_brag_plan_linger",
+      "label": "linger hook word",
+      "file_type": "concept",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_brag_plan_golden_hour_latte",
+      "label": "Golden Hour Latte",
+      "file_type": "concept",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_brag_plan_whipped_ricotta_toast",
+      "label": "Whipped Ricotta Toast",
+      "file_type": "concept",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_brag_plan_cinnamon_roll_skillet",
+      "label": "Cinnamon Roll Skillet",
+      "file_type": "concept",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_brag_plan_loved_by_locals",
+      "label": "Loved by Locals testimonials section",
+      "file_type": "concept",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_brag_plan_visual_identity",
+      "label": "Visual Identity System",
+      "file_type": "concept",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_brag_plan_audio_direction",
+      "label": "Audio Direction",
+      "file_type": "concept",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_brag_plan_scene_1_the_golden_light",
+      "label": "Scene 1 The Golden Light",
+      "file_type": "concept",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_brag_plan_scene_2_the_promise",
+      "label": "Scene 2 The Promise",
+      "file_type": "concept",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_brag_plan_scene_3_from_the_kitchen",
+      "label": "Scene 3 From the Kitchen",
+      "file_type": "concept",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_brag_plan_scene_4_loved_by_locals",
+      "label": "Scene 4 Loved by Locals",
+      "file_type": "concept",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_brag_plan_scene_5_the_logo",
+      "label": "Scene 5 The Logo",
+      "file_type": "concept",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_brag_plan_preset_polished",
+      "label": "polished preset tone",
+      "file_type": "rationale",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_brag_plan_creative_direction_quiet_premium",
+      "label": "quiet premium neighborhood cafe film",
+      "file_type": "rationale",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_brag_plan_confidence_through_restraint",
+      "label": "Confidence through restraint",
+      "file_type": "rationale",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_brag_plan_no_cta_needed",
+      "label": "No CTA needed rationale",
+      "file_type": "rationale",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_brag_plan_no_restraint_rule",
+      "label": "Restraint rule no energetic beats",
+      "file_type": "rationale",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_brag_plan_user_flow_note",
+      "label": "User flow note landing page only",
+      "file_type": "concept",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_brag_plan_share_copy_draft",
+      "label": "Share copy draft",
+      "file_type": "document",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_composition_brief",
+      "label": "Composition Brief Golden Hour Coffee Co.",
+      "file_type": "document",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_composition_brief_storyboard_ref",
+      "label": "Storyboard reference",
+      "file_type": "document",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_composition_brief_source_material",
+      "label": "Source Material reference",
+      "file_type": "document",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_composition_brief_creative_direction",
+      "label": "Creative Direction specification",
+      "file_type": "rationale",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_composition_brief_audio_spec",
+      "label": "Audio specification",
+      "file_type": "concept",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_composition_brief_music_track",
+      "label": "happy-beats-business-moves-vol-12 music track",
+      "file_type": "concept",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_composition_brief_hyperframes_instructions",
+      "label": "Hyperframes Instructions",
+      "file_type": "document",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_composition_brief_hyperframes_core",
+      "label": "Hyperframes Core skill",
+      "file_type": "concept",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_composition_brief_hyperframes_animation",
+      "label": "Hyperframes Animation skill",
+      "file_type": "concept",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_composition_brief_hyperframes_creative",
+      "label": "Hyperframes Creative skill",
+      "file_type": "concept",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_composition_brief_hyperframes_keyframes",
+      "label": "Hyperframes Keyframes skill",
+      "file_type": "concept",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_composition_brief_hyperframes_cli",
+      "label": "Hyperframes CLI skill",
+      "file_type": "concept",
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag-output-2026-09-19-153000_composition_index_html",
+      "label": "Brag Video Composition",
+      "file_type": "code",
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag-output-2026-09-19-153000_share_copy_txt",
+      "label": "Brag Video Share Copy",
+      "file_type": "document",
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\share-copy.txt",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "index_html",
+      "label": "Golden Hour Coffee Co. Website",
+      "file_type": "code",
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\index.html",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag-output-2026-09-19-153000_composition_index_html_gsap_timeline",
+      "label": "GSAP Timeline Animation",
+      "file_type": "code",
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": "line 329",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag-output-2026-09-19-153000_composition_index_html_scene_1_hook",
+      "label": "Scene 1: Hook",
+      "file_type": "code",
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": "line 157",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag-output-2026-09-19-153000_composition_index_html_scene_2_tagline",
+      "label": "Scene 2: Tagline",
+      "file_type": "code",
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": "line 163",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag-output-2026-09-19-153000_composition_index_html_scene_3_menu",
+      "label": "Scene 3: Menu Rapid-Fire",
+      "file_type": "code",
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": "line 174",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag-output-2026-09-19-153000_composition_index_html_scene_4_features",
+      "label": "Scene 4: Features",
+      "file_type": "code",
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": "line 250",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag-output-2026-09-19-153000_composition_index_html_scene_5_testimonials",
+      "label": "Scene 5: Testimonials",
+      "file_type": "code",
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": "line 274",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag-output-2026-09-19-153000_composition_index_html_scene_6_location",
+      "label": "Scene 6: Location",
+      "file_type": "code",
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": "line 299",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag-output-2026-09-19-153000_composition_index_html_scene_7_logo",
+      "label": "Scene 7: Logo Outro",
+      "file_type": "code",
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": "line 310",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag-output-2026-09-19-153000_share_copy_txt_storyboard",
+      "label": "Storyboard Scene Breakdown",
+      "file_type": "document",
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\share-copy.txt",
+      "source_location": "line 10",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag-output-2026-09-19-153000_share_copy_txt_color_palette",
+      "label": "Color Palette",
+      "file_type": "concept",
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\share-copy.txt",
+      "source_location": "line 19",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag-output-2026-09-19-153000_share_copy_txt_font_specs",
+      "label": "Font Specifications",
+      "file_type": "concept",
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\share-copy.txt",
+      "source_location": "line 20",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag-output-2026-09-19-153000_share_copy_txt_audio_spec",
+      "label": "Audio Specification",
+      "file_type": "concept",
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\share-copy.txt",
+      "source_location": "line 21",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "index_html_meta_config",
+      "label": "Website Meta Configuration",
+      "file_type": "code",
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\index.html",
+      "source_location": "line 5",
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_brag",
+      "label": "BROEI Café Promotional Photo",
+      "file_type": "image",
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\brag.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_favicon_svg",
+      "label": "GoldenHour Favicon",
+      "file_type": "image",
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\public\\favicon.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_brag_broei_cafe",
+      "label": "BROEI Café",
+      "file_type": "concept",
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\brag.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_brag_linger_overlay",
+      "label": "Linger Text Overlay",
+      "file_type": "concept",
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\brag.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_brag_industrial_chic",
+      "label": "Industrial-Chic Interior Design",
+      "file_type": "concept",
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\brag.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_brag_dutch_menu",
+      "label": "Dutch-Language Chalkboard Menu",
+      "file_type": "concept",
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\brag.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "brag_output_2026_09_19_153000_brag_warm_palette",
+      "label": "Warm Terracotta Color Palette",
+      "file_type": "concept",
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\brag.jpg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_favicon_svg_terracotta",
+      "label": "Terracotta Circle",
+      "file_type": "concept",
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\public\\favicon.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "public_favicon_svg_golden_letter_g",
+      "label": "Golden Letter G",
+      "file_type": "concept",
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\public\\favicon.svg",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "brag_output_2026_09_19_153000_brag_plan",
+      "target": "readme",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_plan",
+      "target": "brag_output_2026_09_19_153000_brag_plan_slow_mornings_strong_coffee",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_plan",
+      "target": "brag_output_2026_09_19_153000_brag_plan_linger",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_plan",
+      "target": "brag_output_2026_09_19_153000_brag_plan_scene_1_the_golden_light",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_plan",
+      "target": "brag_output_2026_09_19_153000_brag_plan_scene_2_the_promise",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_plan",
+      "target": "brag_output_2026_09_19_153000_brag_plan_scene_3_from_the_kitchen",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_plan",
+      "target": "brag_output_2026_09_19_153000_brag_plan_scene_4_loved_by_locals",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_plan",
+      "target": "brag_output_2026_09_19_153000_brag_plan_scene_5_the_logo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_plan",
+      "target": "brag_output_2026_09_19_153000_brag_plan_visual_identity",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_plan",
+      "target": "brag_output_2026_09_19_153000_brag_plan_audio_direction",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_plan",
+      "target": "brag_output_2026_09_19_153000_brag_plan_golden_hour_latte",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_plan",
+      "target": "brag_output_2026_09_19_153000_brag_plan_whipped_ricotta_toast",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_plan",
+      "target": "brag_output_2026_09_19_153000_brag_plan_cinnamon_roll_skillet",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_plan",
+      "target": "brag_output_2026_09_19_153000_brag_plan_loved_by_locals",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_plan",
+      "target": "brag_output_2026_09_19_153000_brag_plan_preset_polished",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_plan",
+      "target": "brag_output_2026_09_19_153000_brag_plan_creative_direction_quiet_premium",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_plan",
+      "target": "brag_output_2026_09_19_153000_brag_plan_confidence_through_restraint",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_plan",
+      "target": "brag_output_2026_09_19_153000_brag_plan_user_flow_note",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_plan",
+      "target": "brag_output_2026_09_19_153000_brag_plan_share_copy_draft",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_plan",
+      "target": "brag_output_2026_09_19_153000_brag_plan_no_cta_needed",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_plan",
+      "target": "brag_output_2026_09_19_153000_brag_plan_no_restraint_rule",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_composition_brief",
+      "target": "brag_output_2026_09_19_153000_brag_plan",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_composition_brief",
+      "target": "brag_output_2026_09_19_153000_composition_brief_storyboard_ref",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_composition_brief",
+      "target": "brag_output_2026_09_19_153000_composition_brief_source_material",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_composition_brief",
+      "target": "brag_output_2026_09_19_153000_composition_brief_creative_direction",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_composition_brief",
+      "target": "brag_output_2026_09_19_153000_composition_brief_audio_spec",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_composition_brief",
+      "target": "brag_output_2026_09_19_153000_composition_brief_music_track",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_composition_brief",
+      "target": "brag_output_2026_09_19_153000_composition_brief_hyperframes_instructions",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_composition_brief",
+      "target": "brag_output_2026_09_19_153000_composition_brief_hyperframes_core",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_composition_brief",
+      "target": "brag_output_2026_09_19_153000_composition_brief_hyperframes_animation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_composition_brief",
+      "target": "brag_output_2026_09_19_153000_composition_brief_hyperframes_creative",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_composition_brief",
+      "target": "brag_output_2026_09_19_153000_composition_brief_hyperframes_keyframes",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_composition_brief",
+      "target": "brag_output_2026_09_19_153000_composition_brief_hyperframes_cli",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_composition_brief_storyboard_ref",
+      "target": "brag_output_2026_09_19_153000_brag_plan_scene_1_the_golden_light",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_composition_brief_storyboard_ref",
+      "target": "brag_output_2026_09_19_153000_brag_plan_scene_2_the_promise",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_composition_brief_storyboard_ref",
+      "target": "brag_output_2026_09_19_153000_brag_plan_scene_3_from_the_kitchen",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_composition_brief_storyboard_ref",
+      "target": "brag_output_2026_09_19_153000_brag_plan_scene_4_loved_by_locals",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_composition_brief_storyboard_ref",
+      "target": "brag_output_2026_09_19_153000_brag_plan_scene_5_the_logo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_composition_brief_source_material",
+      "target": "readme",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_composition_brief_hyperframes_instructions",
+      "target": "brag_output_2026_09_19_153000_composition_brief_hyperframes_core",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_composition_brief_hyperframes_instructions",
+      "target": "brag_output_2026_09_19_153000_composition_brief_hyperframes_animation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_composition_brief_hyperframes_instructions",
+      "target": "brag_output_2026_09_19_153000_composition_brief_hyperframes_creative",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_composition_brief_hyperframes_instructions",
+      "target": "brag_output_2026_09_19_153000_composition_brief_hyperframes_keyframes",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_composition_brief_hyperframes_instructions",
+      "target": "brag_output_2026_09_19_153000_composition_brief_hyperframes_cli",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_composition_brief_audio_spec",
+      "target": "brag_output_2026_09_19_153000_brag_plan_audio_direction",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_composition_brief_creative_direction",
+      "target": "brag_output_2026_09_19_153000_brag_plan_creative_direction_quiet_premium",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_plan_scene_1_the_golden_light",
+      "target": "brag_output_2026_09_19_153000_brag_plan_linger",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_plan_scene_2_the_promise",
+      "target": "brag_output_2026_09_19_153000_brag_plan_slow_mornings_strong_coffee",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_plan_scene_3_from_the_kitchen",
+      "target": "brag_output_2026_09_19_153000_brag_plan_golden_hour_latte",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_plan_scene_3_from_the_kitchen",
+      "target": "brag_output_2026_09_19_153000_brag_plan_whipped_ricotta_toast",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_plan_scene_3_from_the_kitchen",
+      "target": "brag_output_2026_09_19_153000_brag_plan_cinnamon_roll_skillet",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_plan_scene_4_loved_by_locals",
+      "target": "brag_output_2026_09_19_153000_brag_plan_loved_by_locals",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_plan_creative_direction_quiet_premium",
+      "target": "brag_output_2026_09_19_153000_brag_plan_confidence_through_restraint",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_plan_confidence_through_restraint",
+      "target": "brag_output_2026_09_19_153000_brag_plan_no_cta_needed",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_plan_no_restraint_rule",
+      "target": "brag_output_2026_09_19_153000_brag_plan_creative_direction_quiet_premium",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_plan_linger",
+      "target": "brag_output_2026_09_19_153000_brag_plan_slow_mornings_strong_coffee",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag-output-2026-09-19-153000_composition_index_html",
+      "target": "brag-output-2026-09-19-153000_composition_index_html_gsap_timeline",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": "line 329",
+      "weight": 1.0
+    },
+    {
+      "source": "brag-output-2026-09-19-153000_composition_index_html_gsap_timeline",
+      "target": "brag-output-2026-09-19-153000_composition_index_html_scene_1_hook",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": "line 332",
+      "weight": 1.0
+    },
+    {
+      "source": "brag-output-2026-09-19-153000_composition_index_html_gsap_timeline",
+      "target": "brag-output-2026-09-19-153000_composition_index_html_scene_2_tagline",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": "line 339",
+      "weight": 1.0
+    },
+    {
+      "source": "brag-output-2026-09-19-153000_composition_index_html_gsap_timeline",
+      "target": "brag-output-2026-09-19-153000_composition_index_html_scene_3_menu",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": "line 356",
+      "weight": 1.0
+    },
+    {
+      "source": "brag-output-2026-09-19-153000_composition_index_html_gsap_timeline",
+      "target": "brag-output-2026-09-19-153000_composition_index_html_scene_4_features",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": "line 370",
+      "weight": 1.0
+    },
+    {
+      "source": "brag-output-2026-09-19-153000_composition_index_html_gsap_timeline",
+      "target": "brag-output-2026-09-19-153000_composition_index_html_scene_5_testimonials",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": "line 376",
+      "weight": 1.0
+    },
+    {
+      "source": "brag-output-2026-09-19-153000_composition_index_html_gsap_timeline",
+      "target": "brag-output-2026-09-19-153000_composition_index_html_scene_6_location",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": "line 386",
+      "weight": 1.0
+    },
+    {
+      "source": "brag-output-2026-09-19-153000_composition_index_html_gsap_timeline",
+      "target": "brag-output-2026-09-19-153000_composition_index_html_scene_7_logo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": "line 391",
+      "weight": 1.0
+    },
+    {
+      "source": "brag-output-2026-09-19-153000_composition_index_html_scene_1_hook",
+      "target": "brag-output-2026-09-19-153000_composition_index_html_scene_2_tagline",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": "line 339",
+      "weight": 1.0
+    },
+    {
+      "source": "brag-output-2026-09-19-153000_composition_index_html_scene_2_tagline",
+      "target": "brag-output-2026-09-19-153000_composition_index_html_scene_3_menu",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": "line 356",
+      "weight": 1.0
+    },
+    {
+      "source": "brag-output-2026-09-19-153000_composition_index_html_scene_3_menu",
+      "target": "brag-output-2026-09-19-153000_composition_index_html_scene_4_features",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": "line 370",
+      "weight": 1.0
+    },
+    {
+      "source": "brag-output-2026-09-19-153000_composition_index_html_scene_4_features",
+      "target": "brag-output-2026-09-19-153000_composition_index_html_scene_5_testimonials",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": "line 376",
+      "weight": 1.0
+    },
+    {
+      "source": "brag-output-2026-09-19-153000_composition_index_html_scene_5_testimonials",
+      "target": "brag-output-2026-09-19-153000_composition_index_html_scene_6_location",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": "line 386",
+      "weight": 1.0
+    },
+    {
+      "source": "brag-output-2026-09-19-153000_composition_index_html_scene_6_location",
+      "target": "brag-output-2026-09-19-153000_composition_index_html_scene_7_logo",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": "line 391",
+      "weight": 1.0
+    },
+    {
+      "source": "brag-output-2026-09-19-153000_composition_index_html",
+      "target": "brag-output-2026-09-19-153000_share_copy_txt_storyboard",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag-output-2026-09-19-153000_composition_index_html",
+      "target": "brag-output-2026-09-19-153000_share_copy_txt_color_palette",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag-output-2026-09-19-153000_composition_index_html",
+      "target": "brag-output-2026-09-19-153000_share_copy_txt_font_specs",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag-output-2026-09-19-153000_composition_index_html",
+      "target": "brag-output-2026-09-19-153000_share_copy_txt_audio_spec",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "index_html",
+      "target": "brag-output-2026-09-19-153000_composition_index_html",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\index.html",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "index_html_meta_config",
+      "target": "brag-output-2026-09-19-153000_share_copy_txt",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\index.html",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag-output-2026-09-19-153000_composition_index_html_scene_2_tagline",
+      "target": "brag-output-2026-09-19-153000_share_copy_txt_storyboard",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": "line 164",
+      "weight": 1.0
+    },
+    {
+      "source": "brag-output-2026-09-19-153000_composition_index_html_scene_3_menu",
+      "target": "brag-output-2026-09-19-153000_share_copy_txt_storyboard",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": "line 174",
+      "weight": 1.0
+    },
+    {
+      "source": "brag-output-2026-09-19-153000_composition_index_html_scene_4_features",
+      "target": "brag-output-2026-09-19-153000_share_copy_txt_storyboard",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": "line 250",
+      "weight": 1.0
+    },
+    {
+      "source": "brag-output-2026-09-19-153000_composition_index_html_scene_5_testimonials",
+      "target": "brag-output-2026-09-19-153000_share_copy_txt_storyboard",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": "line 274",
+      "weight": 1.0
+    },
+    {
+      "source": "brag-output-2026-09-19-153000_composition_index_html_scene_6_location",
+      "target": "brag-output-2026-09-19-153000_share_copy_txt_storyboard",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": "line 299",
+      "weight": 1.0
+    },
+    {
+      "source": "brag-output-2026-09-19-153000_composition_index_html_scene_7_logo",
+      "target": "brag-output-2026-09-19-153000_share_copy_txt_storyboard",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": "line 310",
+      "weight": 1.0
+    },
+    {
+      "source": "brag-output-2026-09-19-153000_composition_index_html_scene_6_location",
+      "target": "index_html_meta_config",
+      "relation": "shares_data_with",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag",
+      "target": "brag_output_2026_09_19_153000_brag_broei_cafe",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\brag.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag",
+      "target": "brag_output_2026_09_19_153000_brag_linger_overlay",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\brag.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag",
+      "target": "brag_output_2026_09_19_153000_brag_industrial_chic",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\brag.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag",
+      "target": "brag_output_2026_09_19_153000_brag_dutch_menu",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\brag.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag",
+      "target": "brag_output_2026_09_19_153000_brag_warm_palette",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\brag.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_linger_overlay",
+      "target": "brag_output_2026_09_19_153000_brag_broei_cafe",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\brag.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "brag_output_2026_09_19_153000_brag_industrial_chic",
+      "target": "brag_output_2026_09_19_153000_brag_broei_cafe",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\brag.jpg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_favicon_svg",
+      "target": "public_favicon_svg_terracotta",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\public\\favicon.svg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_favicon_svg",
+      "target": "public_favicon_svg_golden_letter_g",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\public\\favicon.svg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_favicon_svg",
+      "target": "brag_output_2026_09_19_153000_brag_broei_cafe",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\public\\favicon.svg",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "public_favicon_svg_terracotta",
+      "target": "brag_output_2026_09_19_153000_brag_warm_palette",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\public\\favicon.svg",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "storyboard_five_scenes",
+      "label": "Five-scene storyboard arc",
+      "nodes": [
+        "brag_output_2026_09_19_153000_brag_plan_scene_1_the_golden_light",
+        "brag_output_2026_09_19_153000_brag_plan_scene_2_the_promise",
+        "brag_output_2026_09_19_153000_brag_plan_scene_3_from_the_kitchen",
+        "brag_output_2026_09_19_153000_brag_plan_scene_4_loved_by_locals",
+        "brag_output_2026_09_19_153000_brag_plan_scene_5_the_logo"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md"
+    },
+    {
+      "id": "hyperframes_skill_stack",
+      "label": "Hyperframes skill stack for composition",
+      "nodes": [
+        "brag_output_2026_09_19_153000_composition_brief_hyperframes_core",
+        "brag_output_2026_09_19_153000_composition_brief_hyperframes_animation",
+        "brag_output_2026_09_19_153000_composition_brief_hyperframes_creative",
+        "brag_output_2026_09_19_153000_composition_brief_hyperframes_keyframes",
+        "brag_output_2026_09_19_153000_composition_brief_hyperframes_cli"
+      ],
+      "relation": "implement",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/composition-brief.md"
+    },
+    {
+      "id": "three_featured_dishes",
+      "label": "Three featured dishes in Scene 3",
+      "nodes": [
+        "brag_output_2026_09_19_153000_brag_plan_golden_hour_latte",
+        "brag_output_2026_09_19_153000_brag_plan_whipped_ricotta_toast",
+        "brag_output_2026_09_19_153000_brag_plan_cinnamon_roll_skillet"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:/Ibrahim106/Downloads/goldenhour/brag-output-2026-09-19-153000/brag-plan.md"
+    },
+    {
+      "id": "seven_scene_video_composition",
+      "label": "Seven-Scene Video Composition",
+      "nodes": [
+        "brag-output-2026-09-19-153000_composition_index_html_scene_1_hook",
+        "brag-output-2026-09-19-153000_composition_index_html_scene_2_tagline",
+        "brag-output-2026-09-19-153000_composition_index_html_scene_3_menu",
+        "brag-output-2026-09-19-153000_composition_index_html_scene_4_features",
+        "brag-output-2026-09-19-153000_composition_index_html_scene_5_testimonials",
+        "brag-output-2026-09-19-153000_composition_index_html_scene_6_location",
+        "brag-output-2026-09-19-153000_composition_index_html_scene_7_logo"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\composition\\index.html"
+    },
+    {
+      "id": "video_design_system",
+      "label": "Video Design System (Colors, Fonts, Audio)",
+      "nodes": [
+        "brag-output-2026-09-19-153000_share_copy_txt_color_palette",
+        "brag-output-2026-09-19-153000_share_copy_txt_font_specs",
+        "brag-output-2026-09-19-153000_share_copy_txt_audio_spec"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\share-copy.txt"
+    },
+    {
+      "id": "golden_hour_branding_assets",
+      "label": "Golden Hour Branding Assets (Website + Video)",
+      "nodes": [
+        "index_html",
+        "brag-output-2026-09-19-153000_composition_index_html",
+        "brag-output-2026-09-19-153000_share_copy_txt"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\index.html"
+    },
+    {
+      "id": "broei_branding_system",
+      "label": "BROEI Café Branding System",
+      "nodes": [
+        "brag_output_2026_09_19_153000_brag",
+        "public_favicon_svg",
+        "brag_output_2026_09_19_153000_brag_broei_cafe",
+        "brag_output_2026_09_19_153000_brag_linger_overlay",
+        "public_favicon_svg_terracotta",
+        "brag_output_2026_09_19_153000_brag_warm_palette"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\brag.jpg"
+    },
+    {
+      "id": "cafe_interior_visual_language",
+      "label": "Café Interior Visual Language",
+      "nodes": [
+        "brag_output_2026_09_19_153000_brag_industrial_chic",
+        "brag_output_2026_09_19_153000_brag_dutch_menu",
+        "brag_output_2026_09_19_153000_brag_warm_palette"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "D:\\Ibrahim106\\Downloads\\goldenhour\\brag-output-2026-09-19-153000\\brag.jpg"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

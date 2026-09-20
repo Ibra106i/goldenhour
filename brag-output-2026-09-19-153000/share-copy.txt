@@ -1,0 +1,21 @@
+Golden Hour Coffee Co. — Brag Video (Fast-Paced v2)
+=====================================================
+
+File:     brag.mp4
+Duration: 18s
+Resolution: 1920x1080 (landscape)
+Size:     1.5 MB (draft quality)
+FPS:      30
+
+Storyboard (7 scenes, sharp cuts):
+  Scene 1 (0-1.5s)   — Hook: café photo, "linger." slam-in
+  Scene 2 (1.5-3.5s) — Tagline: "Slow mornings, strong coffee." + badges
+  Scene 3 (3.5-9.5s) — Menu: 6 items rapid-fire (Latte, Cold Brew, Avocado Toast, Cinnamon Roll, Harvest Bowl, Burrito)
+  Scene 4 (9.5-11.5s)— Features: Locally Roasted, Organic, Dog Friendly, Open Daily
+  Scene 5 (11.5-14s) — Testimonials: 3 cards (Sarah, Marcus, Elena)
+  Scene 6 (14-16s)   — Location: 1214 E 6th St, Austin, TX
+  Scene 7 (16-18s)   — Logo: Golden Hour Coffee Co.
+
+Colors:  #FBF3E7 (cream) | #C1633D (terracotta) | #3B2A20 (espresso) | #8A9A5B (sage) | #E08E45 (burnt-orange)
+Fonts:   Kalam (display) | Inter (body)
+Music:   happy-beats-business-moves-vol-12-by-ende-dot-app.mp3 (0.35 vol, fade out)
